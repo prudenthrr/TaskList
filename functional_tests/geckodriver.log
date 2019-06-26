@@ -1,0 +1,180 @@
+1552701610782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bEyQbQEokZfa"
+1552701611853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552701611853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552701614077	Marionette	INFO	Listening on port 44233
+1552701614112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552701682553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DbjFIzjcRzXQ"
+1552701683108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552701683108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552701685318	Marionette	INFO	Listening on port 46163
+1552701685379	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5546, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 5546, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552701713813	Marionette	INFO	Stopped listening on port 46163
+[Parent 5285, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552701716075	Marionette	INFO	Stopped listening on port 44233
+1552701791603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.osLw8wgA2dUP"
+1552701792202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552701792202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552701794720	Marionette	INFO	Listening on port 34943
+1552701794839	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5834, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 5834, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552701798073	Marionette	INFO	Stopped listening on port 34943
+1552701866218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e8Zs4VrpHxrO"
+1552701866842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552701866843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552701869348	Marionette	INFO	Listening on port 34633
+1552701869448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552701977387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3V3lx5YAZ0O7"
+1552701977955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552701977956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552701980552	Marionette	INFO	Listening on port 43939
+1552701980630	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6160, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552701983310	Marionette	INFO	Stopped listening on port 34633
+[Parent 6458, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552701984880	Marionette	INFO	Stopped listening on port 43939
+1552701992853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ITtzJHJ9oXjL"
+1552701993440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552701993440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552701995899	Marionette	INFO	Listening on port 32989
+1552701995988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552702029975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w5jmJCX2yxsz"
+1552702030649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702030650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702032965	Marionette	INFO	Listening on port 44699
+1552702032985	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7021, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702037589	Marionette	INFO	Stopped listening on port 44699
+1552702097739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uFVDH9KJe1PE"
+1552702098341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702098342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702100660	Marionette	INFO	Listening on port 43795
+1552702100752	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7291, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702127012	Marionette	INFO	Stopped listening on port 43795
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6728, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 6728, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702130593	Marionette	INFO	Stopped listening on port 32989
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552702318546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rKMZSRMUEnm5"
+1552702319169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702319169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702321548	Marionette	INFO	Listening on port 33407
+1552702321631	Marionette	WARN	TLS certificate errors will be ignored for this session
+PluralForm.jsm: Index #1 of '2 行' for value 2 is invalid -- plural rule #1; called by renderPreferences/<
+PluralForm.jsm: Index #1 of '3 行' for value 3 is invalid -- plural rule #1; called by renderPreferences/<
+PluralForm.jsm: Index #1 of '4 行' for value 4 is invalid -- plural rule #1; called by renderPreferences/<
+PluralForm.jsm: Index #1 of '2 行' for value 2 is invalid -- plural rule #1; called by renderPreferences/<
+PluralForm.jsm: Index #1 of '3 行' for value 3 is invalid -- plural rule #1; called by renderPreferences/<
+PluralForm.jsm: Index #1 of '4 行' for value 4 is invalid -- plural rule #1; called by renderPreferences/<
+[Parent 7709, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702386334	Marionette	INFO	Stopped listening on port 33407
+1552702427435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6qgempmghELl"
+1552702428088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702428089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702430374	Marionette	INFO	Listening on port 41203
+1552702430490	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8091, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 8091, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702571687	Marionette	INFO	Stopped listening on port 41203
+1552702591361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lgdFNzBALCmV"
+1552702592053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702592054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702594574	Marionette	INFO	Listening on port 46247
+1552702594673	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8550, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 8550, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702597746	Marionette	INFO	Stopped listening on port 46247
+1552702623620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8xwUpgWJnWdf"
+1552702624581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702624582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702626799	Marionette	INFO	Listening on port 45311
+1552702626855	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8816, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702635328	Marionette	INFO	Stopped listening on port 45311
+1552702642450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xfZjHpA3U292"
+1552702643003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702643003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702645623	Marionette	INFO	Listening on port 42155
+1552702645668	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9112, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702823623	Marionette	INFO	Stopped listening on port 42155
+1552702827326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fNeBznxJaNSM"
+1552702827935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702827935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702830609	Marionette	INFO	Listening on port 33353
+1552702830760	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9442, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 9442, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702930745	Marionette	INFO	Stopped listening on port 33353
+1552702932831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NpkBB7TGsnUO"
+1552702933360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702933361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702935929	Marionette	INFO	Listening on port 46117
+1552702936021	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9713, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702939291	Marionette	INFO	Stopped listening on port 46117
+1552702949017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YdnKC7GJ8uGv"
+1552702949621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552702949627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552702952143	Marionette	INFO	Listening on port 45863
+1552702952242	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9979, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 9979, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552702966878	Marionette	INFO	Stopped listening on port 45863
+1552703310959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ng9QcI2Y3Mk8"
+1552703311584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552703311584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552703314220	Marionette	INFO	Listening on port 39907
+1552703314321	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10360, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 10360, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552703341279	Marionette	INFO	Stopped listening on port 39907
+1552703970814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9J8a1BYEe74H"
+1552703971408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552703971408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552703973563	Marionette	INFO	Listening on port 44889
+1552703973626	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10745, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 10745, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552704023691	Marionette	INFO	Stopped listening on port 44889
+1552704049281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gDdiPxCP9v05"
+1552704049833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552704049834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552704052173	Marionette	INFO	Listening on port 38555
+1552704052203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552704067248	Marionette	INFO	Stopped listening on port 38555
+1552704071376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TzpqcLXAMLXp"
+1552704071904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552704071905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552704073934	Marionette	INFO	Listening on port 39317
+1552704074008	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11335, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 11335, Gecko_IOThread] WARNING: pipe error (86): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552704098044	Marionette	INFO	Stopped listening on port 39317
+1552704481436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Kjeku9OooByG"
+1552704481946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552704481946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552704484492	Marionette	INFO	Listening on port 37133
+1552704484596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552704494851	Marionette	INFO	Stopped listening on port 37133
+1552704805124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1NTHI9YJwKe0"
+1552704805707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552704805707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552704807872	Marionette	INFO	Listening on port 33257
+1552704807933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552704891104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AAxs7VRZYmpt"
+1552704891682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552704891682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552704894025	Marionette	INFO	Listening on port 37207
+1552704894149	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12318, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-1juj5k/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552704898058	Marionette	INFO	Stopped listening on port 37207
+1552705086960	Marionette	INFO	Stopped listening on port 33257
